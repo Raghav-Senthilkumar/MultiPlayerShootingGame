@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{C06AD7D7-EE31-420E-D829-7CD9C72269E5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac3ec1c9-6293-4a4b-a878-2184709e11db" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerManager.cs">
+    <Files>
+      <File FileName="Assets/Launcher.cs" />
+      <File FileName="Assets/RoomListItem.cs" />
+      <File FileName="Assets/Menu.cs" />
+      <File FileName="Assets/MenuManager.cs" />
+      <File FileName="Assets/RoomManager.cs" />
+      <File FileName="Assets/PlayerListItem.cs" />
+      <File FileName="Assets/PlayerManager.cs" Line="107" Column="6" />
+      <File FileName="Assets/Spawnplayers.cs" />
+      <File FileName="Assets/Photon/PhotonUnityNetworking/Code/PunClasses.cs" />
+      <File FileName="Assets/shoot.cs" />
+      <File FileName="Assets/des.cs" Line="19" Column="5" />
+      <File FileName="Assets/change.cs" Line="20" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="multiplayer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Photon" expanded="True">
+                <Node name="PhotonUnityNetworking" expanded="True">
+                  <Node name="Code" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
